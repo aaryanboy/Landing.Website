@@ -8,7 +8,7 @@ const ForthPage = forwardRef((props, ref) => {
       <hr />
       <h1> about me</h1>
 
-inteo 
+inteo jsbs
 
 life
     </div>
